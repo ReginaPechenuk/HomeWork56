@@ -1,0 +1,15 @@
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.csproj.AssemblyReference.cache
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.AssemblyInfoInputs.cache
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.AssemblyInfo.cs
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.csproj.CoreCompileInputs.cache
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/bin/Debug/net6.0/HomeWork56
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/bin/Debug/net6.0/HomeWork56.deps.json
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/bin/Debug/net6.0/HomeWork56.runtimeconfig.json
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/bin/Debug/net6.0/HomeWork56.dll
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/bin/Debug/net6.0/HomeWork56.pdb
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.dll
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/refint/HomeWork56.dll
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.pdb
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/HomeWork56.genruntimeconfig.cache
+/Users/paridjanka/Documents/GeekBrains/Знакомство с языками программирования/Домашние задания/HomeWork56/obj/Debug/net6.0/ref/HomeWork56.dll
